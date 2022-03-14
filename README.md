@@ -1,2 +1,2 @@
 # go-cobra
-iptracking with cobra
+IP tracking CLI app with go-cobra.
